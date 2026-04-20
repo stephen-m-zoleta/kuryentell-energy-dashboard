@@ -4,7 +4,11 @@ Kuryentell is a portfolio project that estimates household electricity consumpti
 
 ## Dashboard Preview
 
-![Kuryentell Dashboard](kuryentell-dashboard-preview.png)
+![Kuryentell Dashboard](screenshots/kuryentell-dashboard-preview.png)
+
+## Appliance Data Preview
+
+![Appliance Data](screenshots/kuryentell-appliance-data.png)
 
 ## Overview
 
@@ -20,7 +24,7 @@ This project transforms raw appliance usage data into a simple dashboard for ene
 
 ## File Included
 
-- `Kuryentell_Portfolio_Project.xlsx` – main workbook containing:
+- `Kuryentell_Energy_Dashboard.xlsx` – main workbook containing:
   - Inputs sheet
   - Appliance Data sheet
   - Dashboard sheet
